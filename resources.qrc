@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/logo.svg</file>
+        <file>images/hl_player_48px.svg</file>
+        <file>images/ura_full_16px.svg</file>
+        <file>images/before.svg</file>
+        <file>images/fullsreen.svg</file>
+        <file>images/list.svg</file>
+        <file>images/next.svg</file>
+        <file>images/quit.svg</file>
+        <file>images/volume.svg</file>
+        <file>images/play.svg</file>
+    </qresource>
+</RCC>
